@@ -3,8 +3,8 @@
 
 ## hw1
 
-design a Dungeon game
+Design a Dungeon game
 
 ## hw2
 
-implement 6 algorithms: BellmanFord, Dijkstra, Kruskal, Mersort, Prim, Quicksort
+Implement 6 algorithms: BellmanFord, Dijkstra, Kruskal, Mersort, Prim, Quicksort
